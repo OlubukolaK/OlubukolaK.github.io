@@ -1,30 +1,24 @@
-# OlubukolaK.github.io
-### Education
-- Masters, Business Analytics | Hult International Business School, United States
-- Masters, Development Studies | Bayero University Kano, Nigeria
-
-
-### Projects
-Data Science projects @ Hult Business School
-- Classification Modeling Case Study
-- Regression Modeling Case Study
-- Text Adventure Game Development
-
-![Banner Image](/assets/banner.jpg)
+![Banner Image]( assets/Beige and Brown Social Media Manager LinkedIn Banner (1).png)
 
 # Hi there, I'm Olubukola! 👋
 
-I'm passionate about data science and love to explore the power of data in driving decisions and insights. Welcome to my GitHub profile!
+I'm passionate about data science and love to explore the power of data in driving decisions and insights. 
+Welcome to my GitHub profile!
 
-![Profile Image](/assets/profile.jpg)
+![Profile Image]( assets/WhatsApp Image 2024-04-28 at 15.18.40.jpeg)
+
+# OlubukolaK.github.io
+## Education
+- Masters, Business Analytics | Hult International Business School, United States
+- Masters, Development Studies | Bayero University Kano, Nigeria
 
 ## Projects 🚀
 
 Here's a selection of my data science projects:
 
-- [Classification Modeling - Birthweight](/Classification%20Modeling%20-%20Birthweight.ipynb)
-- [Regression Modeling - Bike](/Regression%20Modeling%20-%20Bike.ipynb)
-- [Text Adventure Game - Olubukola](/Text%20Adventure%20Game%20-%20Olubukola.ipynb)
+- [Classification Modeling - Birthweight]( Classification Modeling - Birthweight.ipynb)
+- [Regression Modeling - Bike]( Regression Modeling - Bike.ipynb)
+- [Text Adventure Game - Olubukola]( Text Adventure Game - Olubukola.ipynb)
 
 ---
 
