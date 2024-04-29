@@ -24,7 +24,7 @@ Here's a selection of my data science projects:
 
 ### Let's Connect!
 
-Feel free to reach out and connect with me on [LinkedIn](YourLinkedInProfileLink) or [Twitter](YourTwitterProfileLink).
+Feel free to reach out and connect with me on [LinkedIn](www.linkedin.com/in/olubukolaogunniyi).
 
 ---
 
