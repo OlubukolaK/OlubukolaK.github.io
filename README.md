@@ -6,6 +6,6 @@
 
 ### Projects
 Data Science projects @ Hult Business School
-- Pro 1
-- Pro 2
-- Pro 3
+- Classification Modeling Case Study
+- Regression Modeling Case Study
+- Text Adventure Game Development
